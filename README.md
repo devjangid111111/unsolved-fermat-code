@@ -24,7 +24,7 @@ To run this infinite mathematical search engine on your local machine, make sure
    ```
 3. Run the code:
    ```bash
-   python main.py
+   python d.py
    ```
 
 ## ⚠️ Warning
